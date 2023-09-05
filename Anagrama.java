@@ -11,6 +11,7 @@ public class Anagrama {
 		HashSet<String> grupo = new HashSet<String>();
 		HashSet<String> grupo2 = new HashSet<String>();
 		
+		
 		System.out.println("Programando un anagrama");
 		System.out.print("Introducir la primera palabra: ");
 		String palabra1 = entry.nextLine();
